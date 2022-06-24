@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Friends App
 
-Things you may want to cover:
+This is a tutorial that i'm going through to get my Rails chops back up
+to speed
 
-* Ruby version
+* Ruby version: 3.1.2
 
-* System dependencies
+* Rails version: 7.0.3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
+* Database: Postgresql
 
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
