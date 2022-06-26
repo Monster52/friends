@@ -1,0 +1,37 @@
+<h1>Friends</h1>
+<ul>
+  <li>First Name</li>
+  <li>Last Name</li>
+  <li>email</li>
+  <li>phone</li>
+  <li>twitter</li>
+</ul>
+
+<ul>
+  <% @friends.each do |friend| %>
+    <li>
+      <%= friend.first_name %>
+    </li>
+    <li>
+      <%= friend.last_name %>
+    </li>
+    <li>
+      <%= friend.email %>
+    </li>
+    <li>
+      <%= friend.phone %>
+    </li>
+    <li>
+      <%= friend.twitter %>
+    </li>
+    <%= link_to "Edit Friend", edit_friend_path(friend) %>
+    <%= link_to "Delete Friend", friend_path(friend), data: {
+                                    turbo_method: :delete,
+                                    turbo_confirm: "Are you sure?"
+                                    }
+    %>
+  <% end %>
+</ul>
+
+<%= link_to "Add Friend", new_friend_path %>
+
