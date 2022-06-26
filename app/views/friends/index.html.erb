@@ -24,6 +24,7 @@
     <li>
       <%= friend.twitter %>
     </li>
+    <%= link_to "Show Friend", friend_path(friend) %>
     <%= link_to "Edit Friend", edit_friend_path(friend) %>
     <%= link_to "Delete Friend", friend_path(friend), data: {
                                     turbo_method: :delete,
