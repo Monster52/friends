@@ -1,0 +1,60 @@
+[33mcommit 6d2116acc05d881ec8ca0504b8355705f920cd1d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Sun Jun 26 11:26:44 2022 -0500
+
+    messing stuff up
+
+[33mcommit 255c44f7239a28a5b6b28b47e3338e129acbf7ff[m
+Merge: 8788c0d 59ce057
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Sun Jun 26 10:08:12 2022 -0500
+
+    Merge pull request #2 from Monster52/add_bootstrap
+    
+    added bootstrap
+
+[33mcommit 59ce057e20a1cdd4a60161484d5c5bec4c783450[m[33m ([m[1;31morigin/add_bootstrap[m[33m, [m[1;32madd_bootstrap[m[33m)[m
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Sun Jun 26 10:06:59 2022 -0500
+
+    added bootstrap
+
+[33mcommit 8788c0de573897e700c6b7f831145b5bd979be05[m
+Merge: 90eccaf 165fb0e
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Fri Jun 24 15:06:25 2022 -0500
+
+    Merge branch 'main' of github.com:Monster52/friends into main
+
+[33mcommit 90eccafcfd1ad74b6c140f7dd8d019124d3810f2[m
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Fri Jun 24 15:06:03 2022 -0500
+
+    add about us
+
+[33mcommit 165fb0ea284750481310a67fc3d8201084c5f9c6[m
+Merge: 3460323 e691e7e
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Fri Jun 24 14:51:14 2022 -0500
+
+    Merge pull request #1 from Monster52/create_home_page
+    
+    add home page view controller and route
+
+[33mcommit e691e7eb88317d5ca875bbde83690e67a01f663c[m[33m ([m[1;31morigin/create_home_page[m[33m, [m[1;32mcreate_home_page[m[33m)[m
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Fri Jun 24 14:47:30 2022 -0500
+
+    add home page view controller and route
+
+[33mcommit 34603237ddba759f01e6a0e513490e83eff5b114[m
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Fri Jun 24 13:04:21 2022 -0500
+
+    clean up gemfile and edit README
+
+[33mcommit d0c3bb7873a55ebff6130e1c4f484564c9ac4351[m[33m ([m[1;32mfixing_things[m[33m)[m
+Author: Ross Waguespack <rosswaguespack@gmail.com>
+Date:   Fri Jun 24 12:15:10 2022 -0500
+
+    initial commit
